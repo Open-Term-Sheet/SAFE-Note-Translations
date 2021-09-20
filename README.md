@@ -10,5 +10,7 @@ We will initially support Spanish and Turkish.  If you would like to translate t
 
 # Contributors:
 Cihan Öreşe - Project Coordinator, Turkish support
+
 Johnny Madrid - Spanish support
+
 Peter Ma - Project maintenance
